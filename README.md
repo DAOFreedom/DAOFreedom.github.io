@@ -1,7 +1,5 @@
 # DAOFreedom.github.io
 
-原则
-
 时间就像一条河流，载着我们顺流而下，遇到现实，需要决策，但我们无法停留，也无法回避，只能以最好的方式应对。-《原则》-
 
 Time is like a river that carries us forward into encounters with reality that require us to make decisions. We can't stop our movement down this river and we can'tavoid those encounters. We can only approach them in the best possible way. -Principles-
@@ -222,4 +220,5 @@ Evolving is life's greatest accomplishment and its greatest reward.
 Get over “blame” and "credit" and get on with "accurate" and "inaccurate."
 
 人一生最重要的抉择只有一个：你愿意努力探寻真相码？
+
 There is really only one big choice to make in life: Are you willing to fight to find out what's true ?
